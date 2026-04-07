@@ -1,0 +1,1 @@
+{"EyeSense_1":[{"mac":"7C:D9:F4:11:52:94","name":"MP1_115294","rssi":-62,"data":"{\"low battery indication\":\"0\",\"magnetic field\":\"undetected\",\"temperature\":\"23.80\",\"humidity\":\"71\",\"move count\":\"462\",\"moving state\":\"0\",\"pitch\":\"1\",\"roll\":\"0\",\"voltage(mV)\":\"3070\"}"}]}
